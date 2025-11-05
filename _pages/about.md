@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm 1 秒之前-year master's student at the School of  Xi'an Jiaotong University.
+I'm `a second-year` master's student at the School of Xi'an Jiaotong University.
 [Emal](yihengsun@stu.xjtu.edu.cn)
