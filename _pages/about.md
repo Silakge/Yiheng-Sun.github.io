@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 I'm `a second-year` master's student at the School of Xi'an Jiaotong University.
-[Emal](yihengsun@stu.xjtu.edu.cn)
+[Email](yihengsun@stu.xjtu.edu.cn)
